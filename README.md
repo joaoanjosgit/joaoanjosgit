@@ -1,6 +1,18 @@
-- 👋 Hi, I’m João Anjos
+# 👋 Hi, I’m João Anjos
 - 🌱 I’m currently studing in my 4th year of Telecommunications and Informatics Engineering @ISEP
 - 👀 I’m interested in music, fullstack programming, APIs, videogames, cinema
+
+# Skills & Experiences
+* Java
+* JavaScript
+* C
+* C++
+* React
+* React Native
+* Python
+* Linux
+* CSS
+* HTML
 
 <!---
 joaoanjosgit/joaoanjosgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
