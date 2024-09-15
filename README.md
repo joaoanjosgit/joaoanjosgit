@@ -1,5 +1,5 @@
 # 👋 Hi, I’m João Anjos
-- 🌱 I’m currently studying  in my 4th year of Telecommunications and Informatics Engineering @ISEP
+- 🌱 I recently completed my bachelor's degree in Telecommunications & Informatics Engineering @ISEP
 - 👀 I’m interested in music, fullstack programming, APIs, videogames, cinema
 
 # Skills & Experiences
